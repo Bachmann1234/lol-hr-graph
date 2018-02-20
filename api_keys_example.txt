@@ -1,0 +1,10 @@
+{
+	"riot": "",
+	"fitbit": {
+		"client_id": "",
+		"client_secret": "",
+		"callback_url": "",
+		"auth_uri": "",
+		"refresh_uri": ""
+	}
+}

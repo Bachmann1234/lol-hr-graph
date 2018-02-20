@@ -1,0 +1,6 @@
+{
+    "user": {
+        "offsetFromUTCMillis": -18000000,
+        "_comment": "this is a partial profile response. all I care about is the offset"
+    }
+}

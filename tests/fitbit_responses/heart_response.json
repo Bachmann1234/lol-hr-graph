@@ -1,0 +1,157 @@
+{
+    "activities-heart": [
+        {
+            "customHeartRateZones": [],
+            "dateTime": "2018-02-18",
+            "heartRateZones": [
+                {
+                    "max": 94,
+                    "min": 30,
+                    "minutes": 1,
+                    "name": "Out of Range"
+                },
+                {
+                    "max": 132,
+                    "min": 94,
+                    "minutes": 28,
+                    "name": "Fat Burn"
+                },
+                {
+                    "max": 160,
+                    "min": 132,
+                    "minutes": 0,
+                    "name": "Cardio"
+                },
+                {
+                    "max": 220,
+                    "min": 160,
+                    "minutes": 0,
+                    "name": "Peak"
+                }
+            ],
+            "value": "101.28"
+        }
+    ],
+    "activities-heart-intraday": {
+        "dataset": [
+            {
+                "time": "17:03:00",
+                "value": 102
+            },
+            {
+                "time": "17:04:00",
+                "value": 101
+            },
+            {
+                "time": "17:05:00",
+                "value": 104
+            },
+            {
+                "time": "17:06:00",
+                "value": 103
+            },
+            {
+                "time": "17:07:00",
+                "value": 105
+            },
+            {
+                "time": "17:08:00",
+                "value": 102
+            },
+            {
+                "time": "17:09:00",
+                "value": 104
+            },
+            {
+                "time": "17:10:00",
+                "value": 104
+            },
+            {
+                "time": "17:11:00",
+                "value": 107
+            },
+            {
+                "time": "17:12:00",
+                "value": 101
+            },
+            {
+                "time": "17:13:00",
+                "value": 100
+            },
+            {
+                "time": "17:14:00",
+                "value": 102
+            },
+            {
+                "time": "17:15:00",
+                "value": 105
+            },
+            {
+                "time": "17:16:00",
+                "value": 100
+            },
+            {
+                "time": "17:17:00",
+                "value": 100
+            },
+            {
+                "time": "17:18:00",
+                "value": 104
+            },
+            {
+                "time": "17:19:00",
+                "value": 102
+            },
+            {
+                "time": "17:20:00",
+                "value": 100
+            },
+            {
+                "time": "17:21:00",
+                "value": 107
+            },
+            {
+                "time": "17:22:00",
+                "value": 100
+            },
+            {
+                "time": "17:23:00",
+                "value": 101
+            },
+            {
+                "time": "17:24:00",
+                "value": 99
+            },
+            {
+                "time": "17:25:00",
+                "value": 99
+            },
+            {
+                "time": "17:26:00",
+                "value": 97
+            },
+            {
+                "time": "17:27:00",
+                "value": 93
+            },
+            {
+                "time": "17:28:00",
+                "value": 100
+            },
+            {
+                "time": "17:29:00",
+                "value": 94
+            },
+            {
+                "time": "17:30:00",
+                "value": 100
+            },
+            {
+                "time": "17:31:00",
+                "value": 101
+            }
+        ],
+        "datasetInterval": 1,
+        "datasetType": "minute"
+    }
+}
